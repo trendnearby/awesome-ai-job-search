@@ -28,6 +28,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 ## AI Resume Builders
 
 - [Reactive Resume](https://github.com/AmruthPillworkaround/Reactive-Resume) - Free, open-source resume builder with AI features, real-time preview, and multiple templates.
+- [CVDash](https://cvdash.web.app/) - Free AI resume builder with real-time ATS scoring, AI bullet-point writer, and recruiter-approved templates.
 - [Teal](https://www.tealhq.com/) - AI-powered resume builder that tailors your resume to each job description.
 - [Rezi](https://www.rezi.ai/) - AI resume builder trained on recruiter preferences with ATS optimization.
 - [Kickresume](https://www.kickresume.com/) - AI resume and cover letter builder with 35+ professional templates.
@@ -43,6 +44,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [SkillSyncer](https://skillsyncer.com/) - Match your resume keywords against job descriptions to beat ATS filters.
 - [Huntr Resume Tailor](https://huntr.co/) - AI that adapts your resume to specific job descriptions automatically.
 - [Careerflow Resume Scanner](https://www.careerflow.ai/) - Free ATS scanner with keyword matching and formatting checks.
+- [CVDash](https://cvdash.web.app/) - Free AI resume builder with real-time ATS scoring as you build, plus AI bullet-point writing.
 
 ## AI Cover Letter Generators
 
