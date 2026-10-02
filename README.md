@@ -39,6 +39,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 ## ATS Optimization
 
 - [Jobscan](https://www.jobscan.co/) - Compare your resume against job descriptions and get an ATS match score.
+- [ResumeAI](https://withresumeai.com/) - Free ATS resume checker (3/day anonymous, 10/day free account) plus State of ATS 2026 (Workday 37.9%).
 - [Resume Worded](https://resumeworded.com/) - AI-powered resume and LinkedIn review with line-by-line feedback.
 - [SkillSyncer](https://skillsyncer.com/) - Match your resume keywords against job descriptions to beat ATS filters.
 - [Huntr Resume Tailor](https://huntr.co/) - AI that adapts your resume to specific job descriptions automatically.
